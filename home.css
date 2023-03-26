@@ -1,0 +1,22 @@
+/* body{
+            text-align: center;
+        } */
+
+.centered
+/* .centered is a class. */
+
+    {
+    text-align: center;
+}
+
+.large {
+    font-size: large;
+}
+
+.medium {
+    font-size: medium;
+}
+
+.small {
+    font-size: small;
+}
