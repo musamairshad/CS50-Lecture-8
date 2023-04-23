@@ -1,1 +1,1 @@
-## Contains material related to CS50 - Lecture 8
+## This repository contains material related to CS50 - Lecture 8
